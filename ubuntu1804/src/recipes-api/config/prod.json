@@ -1,0 +1,4 @@
+{
+    "ssh_user": "ryan",
+    "ssh_keyfile": "~/.ssh/id_rsa.pub"
+}
